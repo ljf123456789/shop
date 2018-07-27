@@ -1,0 +1,390 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 微软雅黑;
+
+}
+a{
+	text-decoration: none;
+}
+.main{
+	width: 1300px;
+	margin: 0 auto;
+}
+.header{
+	height: 50px;
+	background-color: #272822;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.headerlogo{
+	float: left;
+}
+.headerleft{
+	float: left;
+	color: #fff;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 15px;
+}
+.headerright{
+	float: right;
+	line-height: 50px;
+}
+.headerright a{
+	color: #fff;
+	margin-left: 15px;
+}
+.headerright a:hover{
+	color: #ccc;
+
+}
+
+
+
+.cartDel{
+	background: #e4393c;
+	color: #fff;
+	border-radius: 5px;
+	padding: 5px;
+	
+}
+
+.cartDel:hover{
+	box-shadow: 1px 1px 1px 1px #ccc;
+}
+.cartNum{
+	background: #e4393c;
+	color: #fff;
+	border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 15px;
+    width: 50px;
+    height: 50px;
+
+}
+.touch tr{
+	height: 50px;
+
+}
+.touch  tr td{
+	border-top: 1px dashed #ccc;
+
+}
+
+
+
+
+
+
+.nav{
+	height: 5px;
+	
+}
+.ads{
+	height: 200px;
+
+}
+.content{
+	
+}
+.floorheader{
+	background-color: #272822;
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.floorheader a{
+	color: #fff;
+}
+.floorheader .left{
+	
+	float: left;
+
+}
+.floorheader .right{
+
+	float: right;
+}
+.floorheader a:hover{
+	color: #eee;
+}
+.floorfooter{
+	height: 250px;
+
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+.floorfooter2{
+	padding-top: 15px;
+	padding-bottom: 5px;
+
+}
+.floorfooter2 .shop{
+	margin-bottom: 15px;
+}
+.floorfooter2 table td{
+	text-align: center;
+
+}
+.floorfooter2 .comment{
+	padding-left: 15px;
+	padding-right: 15px;
+	
+	height: 100px;
+	margin-bottom: 15px;
+}
+.floorfooter2 .comment .left{
+
+	float: left;
+	width: 100px;
+	
+	border-right: 2px solid #ccc;
+	text-align: center;
+	padding-top: 15px;
+	background: #888;
+	border-radius: 120px ;
+	color: #fff;
+	margin-top: 5px;
+}
+.floorfooter2 .comment .right{
+	padding-top: 15px;
+	margin-top: 5px;
+	float: left;
+	width: 1145px;
+	height: 100%;
+	padding-left: 15px;
+
+	
+
+
+}
+.floor{
+	margin-bottom: 15px;
+}
+.shop{
+	width: 200px;
+	height: 235px;
+	
+	margin-left: 100px;
+	float: left;
+	border: 2px solid #888;
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 5px #ccc;
+
+}
+
+.shopinfo{
+	padding-right: 5px;
+	padding-right: 5px;
+}
+.shopprice{
+	float: right;
+}
+.footer{
+	height: 50px;
+	background: #272822;
+}
+.footer ul{
+	list-style: none;
+	padding-left: 450px;
+	line-height: 50px;
+
+}
+.footer ul li{
+	float: left;
+	margin-left: 15px;
+
+}
+.footer a{
+	color: #fff;
+
+}
+.footer a:hover{
+	color: #ccc;
+}
+
+.clean{
+	clear: both;
+}
+
+.floorFooter2left{
+	width: 150px;
+	height: 400px;
+	
+	float: left; 
+    border:1px dashed #888;
+
+}
+.floorFooter2left ul{
+	list-style: none;
+	padding: 10px;
+
+}
+.floorFooter2left ul li a{
+	color: #007;
+
+
+}
+.mao{
+	margin-top: 30px;
+}
+.floorFooter2left ul li{
+	line-height:30px;
+
+}
+
+.floorFooter2left ul li a:hover{
+	color: #888;
+
+}
+
+.floorFooter2right{
+	width: 1120px;
+	
+	
+	float: right;
+	
+	padding-top: 20px;
+
+}
+
+.floorFooter2right table tr td{
+	text-align: center; 
+	height: 30px;
+	border-top:1px dashed #888;
+	
+}
+.biaodan input[type=text]{
+	margin-bottom: 5px;
+	width: 200px;
+	border-radius: 5px;
+
+}
+.biaodan p{
+     margin-top: 5px;
+}
+.biaodan{
+	margin-top: 20px;
+	float: right;
+	margin-right: 80px;
+ 
+ 
+}
+.zhongbiaodan{
+	background-color: #eee;
+	width: 100%;
+
+}
+.biaodant{
+	margin-top: 30px;
+
+	float: left;
+	
+}
+
+.login{
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+	background: url('../img/dlbj.jpg');
+
+}
+.dlcontent{
+	height: 600px;
+	background: #e3eaf4 ;
+}
+.loginform{
+	color: #fff;
+	float: right;
+	margin-right: 140px;
+	margin-top: 120px;
+}
+.loginform input[name]{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+  padding-left: 15px;
+	
+}
+.loginform p{
+	line-height: 80px;
+}
+.loginform input[type=submit]{
+	background: #2e96ef center;
+	border:none;
+	width: 215px;
+	height: 30px;
+	margin-top: 15px;
+	box-shadow: 0 0 5px 5px #eee;
+	border-radius: 10px;
+}
+
+.loginform2{
+	color: #fff;
+	float: right;
+	margin-right: 140px;
+	margin-top: 120px;
+}
+.loginform2 input[name]{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+  padding-left: 15px;
+	
+}
+.loginform2 p{
+	line-height: 50px;
+}
+.vcodeimg{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+  padding-left: 100px;
+
+}
+
+.loginform2 input[type=submit]{
+	background: #2e96ef center;
+	border:none;
+	width: 215px;
+	height: 30px;
+	margin-top: 20px;
+	box-shadow: 0 0 5px 5px #eee;
+	border-radius: 10px;
+}
+
+
+.cartTot{
+	height: 76px;
+
+}
+
+.goods{
+	height: 35px;
+}
+
+.commit{
+	margin-top: 50px;
+	margin-right: 100px;
+	float: right;
+	background: #e4393c;
+	color: #fff;
+	border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: bold;
+ 
+}
+
+.PersonComment{
+
+	width: 80%;
+	height: 100px;
+	resize: none;
+	padding: 5px;
+
+}
